@@ -1,0 +1,8 @@
+1. Write a Python program that accepts a hyphen-separated sequence of words as input and prints the words in a 
+ hyphen-separated sequence after sorting them alphabetically. 
+Sample Items : green-red-yellow-black-white
+Expected Result : black-green-red-white-yellow
+
+2. Write a Python function that takes a list and returns a new list with unique elements of the first list. 
+Sample List : [1,2,3,3,3,3,4,5]
+Unique List : [1, 2, 3, 4, 5]
